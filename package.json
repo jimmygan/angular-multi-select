@@ -27,7 +27,8 @@
   "homepage": "https://github.com/isteven/angular-multi-select",
   "dependencies": {
     "angular-mocks": "1.6.1",
-    "angular-sanitize": "1.6.1"
+    "angular-sanitize": "1.6.1",
+    "lodash-es": "^4.17.15"
   },
   "devDependencies": {
     "eslint": "^6.5.1",
